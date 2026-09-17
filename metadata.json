@@ -1,0 +1,6 @@
+{
+  "name": "Creator Studio 2.0 Web Development",
+  "description": "Creator Studio 2.0 Web Development by Dhananjay Uphade. Custom websites, web applications, and Android APK development with free live demos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
